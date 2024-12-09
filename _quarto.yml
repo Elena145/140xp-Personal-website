@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Eileen's Website"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+  page-footer: 
+    right: "&copy;2024, Yiming(Eileen) Xue"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute: 
+  freeze: auto
+
+

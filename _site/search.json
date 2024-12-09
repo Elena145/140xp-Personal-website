@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Cornell ML projects\n\n\n\n\n\nlink\n\n\nGitHub Repository\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLAPD Children Crime Analysis\n\n\n\n\n\nlink\n\n\nGitHub Repository\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeepfake Detection on Videos\n\n\n\n\n\nlink\n\n\nGitHub Repository\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/01-project.html",
+    "href": "projects/01-project.html",
+    "title": "Cornell ML projects",
+    "section": "",
+    "text": "Here is my GitHub project.x"
+  },
+  {
+    "objectID": "projects/03-project.html",
+    "href": "projects/03-project.html",
+    "title": "Deepfake Detection on Videos",
+    "section": "",
+    "text": "Here is my GitHub project."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Eileen Xue",
+    "section": "",
+    "text": "Eileen Xue, a senior majoring in Statistics with a minor in Data Science Engineering at UCLA, seeks roles as a Data Analyst, Data Scientist, or Data Engineer.\nCapable to gather numerical data and show it to companies to help said companies spot trends in the data and make predictions accordingly."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Eileen Xue",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles| Los Angeles, CA B.S in Statistics and Data Science | Sept 2023 - March 2025\nUniversity of California, Santa Barbara| Santa Barbara, CA Statistics, Applied Mathematics | Sept 2023 - March 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Eileen Xue",
+    "section": "Experience",
+    "text": "Experience\nResearch Assistance | UCLA MMI | Jan 2024 - present\nData Analyst Intern | Wuhan Sai Jie Technology Co., Ltd | Jan 2023 - June 2023"
+  }
+]

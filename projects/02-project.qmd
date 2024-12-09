@@ -1,0 +1,5 @@
+---
+title: "LAPD Children Crime Analysis"
+link: '<a href="https://github.com/Elena145/LAPD-Children-Crime-Analysis">GitHub Repository</a>'
+image: images/LAPD.png
+---
