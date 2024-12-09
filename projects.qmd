@@ -18,4 +18,3 @@ listing:
 
 ---
 :::project-listing
-:::
